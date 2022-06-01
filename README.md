@@ -8,7 +8,7 @@ Desarrollo Aplicación - PP3 - IFTS N°18 - Gabriel Paez
 
 # Mockups 📊
 
-▶️ 
+▶️ ![img](https://github.com/GABPAEZ/PetSecurytEyes/blob/main/mockups/PROTOTIPO_INICIAL_MOBILE.png)
 
 # Historias de Usuario 📓
 
